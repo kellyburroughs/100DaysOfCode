@@ -1,5 +1,5 @@
 # 100 Days Of Code
-## This is where I will keep my progress as I work through the 100 days of code challenge
+## This is where I will keep my progress as I work through my first round of the 100 days of code challenge.
 
 ### Day 1: August 23, 2022
 
